@@ -28,7 +28,7 @@ The **VESA Articulated Mount** is a versatile and agile monitor support system d
 ## Usage
 The VESA Articulated Mount is perfect for anyone looking to enhance the flexibility and ergonomics of their monitor setup. Whether you're using it for a home office, gaming station, or professional workspace, this mount provides the adjustability you need for optimal viewing angles.
 
-![Articulated Parallelogram Mechanism](images/articulation.png)
+![Articulated Parallelogram Mechanism](images/articulated-parallelogram.png)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
