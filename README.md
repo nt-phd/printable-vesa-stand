@@ -1,4 +1,4 @@
-# VESA Articulated Mount
+# Modern VESA Articulated Stand
 
 ## Overview
 The **VESA Articulated Mount** is a versatile and agile monitor support system designed to allow rotation and inclination along all three axes. This project leverages the articulated parallelogram mechanism to provide stable and precise adjustments for your monitor. The mount is specifically engineered to be 3D printable and easy to assemble with just a few common hardware components.
