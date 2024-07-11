@@ -1,7 +1,7 @@
 # Modern VESA Articulated Stand
 
 ## Overview
-The **VESA Articulated Mount** is a versatile and agile monitor support system designed to allow rotation and inclination along all three axes. This project leverages the articulated parallelogram mechanism to provide stable and precise adjustments for your monitor. The mount is specifically engineered to be 3D printable and easy to assemble with just a few common hardware components.
+This minimalist **VESA Articulated Stand** is a versatile and agile monitor support system designed to allow rotation and inclination along all three axes. This project leverages the articulated parallelogram mechanism to provide stable and precise adjustments for your monitor. The stand is specifically engineered to be 3D printable and easy to assemble with just a few common hardware components.
 
 ![VESA Articulated Mount](images/render1.png)
 
@@ -13,15 +13,14 @@ The **VESA Articulated Mount** is a versatile and agile monitor support system d
 
 ## Components
 - 3D printed parts
-- 4 x M6 screws and nuts
-- 1 x M8 countersunk screw and nut
+- 4 x M6x60 screws and locknuts
+- 1 x M8x30 countersunk screw and locknut
 
 ## Assembly Instructions
 1. Print all necessary parts using a 3D printer.
-2. Assemble the parts using the M6 screws and nuts.
-3. Use the M8 countersunk screw and nut for the main pivot point.
+2. Use the M8 countersunk screw and nut for the main pivot point.
+3. Assemble the parts using the M6 screws and nuts.
 4. Attach the assembled mount to your monitor using the standard VESA mounting holes.
-
 
 ![Rear View](images/render2.png)
 
