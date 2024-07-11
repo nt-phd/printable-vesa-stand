@@ -31,8 +31,7 @@ The VESA Articulated Mount is perfect for anyone looking to enhance the flexibil
 ![Articulated Parallelogram Mechanism](images/articulated-parallelogram.png)
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-The author does not assume any responsibility for damages to property or persons.
+This project is licensed under the MIT License. The author does not assume any responsibility for damages to property or persons.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements or bug fixes.
